@@ -1,6 +1,8 @@
-# Nedan följer instruktionerna för uppgiften som vi fick i skolan. Målet var att skapa en webbshop med backend och frontend för betyget VG. Jag skapade en webbshop som säljer färdigsydda kläder. Fronten är byggt i VUE.
+# Nedan följer instruktionerna för uppgiften som vi fick i skolan. 
 
 ------------------------------------------------------------------------------------------------------------------------------
+
+# Målet var att skapa en webbshop med backend och frontend för betyget VG. Jag skapade en webbshop som säljer färdigsydda kläder. Fronten är byggt i VUE.
 
 # Du har fått i uppdrag att utveckla API’et till en webbshop.
 
